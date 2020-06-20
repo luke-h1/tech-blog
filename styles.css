@@ -269,3 +269,11 @@ nav a:focus {
         margin-left: 1rem;
     }
 }
+
+a {
+    color: #1792d2;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
